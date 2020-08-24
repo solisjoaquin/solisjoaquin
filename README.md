@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-### Hey, I'm [Joaquin Solis](https://www.joaquinsolis.com/about)! ✌
+### Hey, I'm Joaquin Solis! ✌
 
 
 ### Find me elsewhere 🌎
