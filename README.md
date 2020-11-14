@@ -3,6 +3,13 @@
 
 ### Hey, I'm Joaquin Solis! ✌
 
+#### Front 
+
+JS (React) / CSS (Tailwind) 
+
+#### Back
+
+NodeJs / MySQL 
 
 ### Find me elsewhere 🌎
 
