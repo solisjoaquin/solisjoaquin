@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![json](https://github.com/solisjoaquin/solisjoaquin/blob/master/img-github.PNG)
+![json](https://github.com/solisjoaquin/solisjoaquin/blob/master/json-profile.PNG)
 
 
 ## Find me elsewhere 🌎
