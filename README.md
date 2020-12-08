@@ -1,15 +1,7 @@
 # Hi there 👋
 
+![json](https://github.com/solisjoaquin/solisjoaquin/blob/master/img-github.PNG)
 
-Hey, I'm **Joaquin** Solis! ✌
-
-## Front 
-
-JS (React) / CSS (Tailwind) 
-
-## Back
-
-NodeJs / MySQL 
 
 ## Find me elsewhere 🌎
 
