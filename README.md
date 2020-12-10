@@ -2,6 +2,8 @@
 
 ![json](https://github.com/solisjoaquin/solisjoaquin/blob/master/json-profile.PNG)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=solisjoaquin)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Find me elsewhere 🌎
 
