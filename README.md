@@ -1,11 +1,11 @@
 # Hi there 👋
 
-```
+```json
 "personal info":{
    "name": "Joaquin Solis",
    "title": "Frontend developer",
    "email":"joaquinsolis93@gmail.com",
-   "website": "joaquinsolis.com",
+   "website": "joaquinsolis.com"
  }
  "Technologies":{
   "React",
