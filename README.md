@@ -1,6 +1,6 @@
 # Hi there 👋
 
-```json
+```
 "personal info":{
    "name": "Joaquin Solis",
    "title": "Frontend developer",
