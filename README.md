@@ -1,6 +1,22 @@
 # Hi there 👋
 
-![json](https://github.com/solisjoaquin/solisjoaquin/blob/master/json-profile.PNG)
+```
+"personal info":{
+   "name": "Joaquin Solis",
+   "title": "Frontend developer",
+   "email":"joaquinsolis93@gmail.com",
+   "website": "joaquinsolis.com",
+ }
+ "Technologies":{
+  "React",
+  "Node",
+  "Typescript",
+  "NextJS",
+  "Tailwind"
+ }
+  
+```
+
 
 ## Find me elsewhere 🌎
 
