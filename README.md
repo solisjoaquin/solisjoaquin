@@ -5,7 +5,6 @@
    "name": "Joaquin Solis",
    "title": "Frontend developer",
    "email": "joaquinsolis93@gmail.com",
-   "website": "joaquinsolis.me"
  }
  "Technologies":{
   "React",
